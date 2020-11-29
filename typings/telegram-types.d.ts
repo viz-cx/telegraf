@@ -178,7 +178,9 @@ export type InputFile =
 export type DiceEmoji = 
   '🎲' |
   '🎯' |
-  '🏀'
+  '🏀' |
+  '⚽️' | 
+  '🎰'
 
 /**
  * Sending video notes by a URL is currently unsupported
